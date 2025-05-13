@@ -1,0 +1,2 @@
+# SAZANKA_2025_PowerBoard
+2025年バージョンの電源基板です
